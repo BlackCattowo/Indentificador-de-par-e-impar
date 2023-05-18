@@ -1,6 +1,6 @@
 # Python
-Meus trabalhos em Python:
 ---
+Meus trabalhos em Python:
   <br>
   
 **Inpar-Par** - Programa simples que identifica números pares e impares dentro de uma lista.
